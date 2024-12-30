@@ -9,18 +9,18 @@ This project is designed to detect fraudulent credit card transactions using a c
 ### Libraries:
 1. **Pandas & NumPy:** Data manipulation and statistical analysis.
 2. **Matplotlib & Seaborn:** Visualization of data and relationships.
-**Scikit-learn:** Model implementation and evaluation.
-**Isolation Forest:** Anomaly detection technique for fraud detection.
+3. **Scikit-learn:** Model implementation and evaluation.
+4. **Isolation Forest:** Anomaly detection technique for fraud detection.
 
 ## Features
-**Data Preprocessing:** Handling missing values, scaling, and preparing the dataset for machine learning.
-**Exploratory Data Analysis:** Identifying patterns in transaction data, including fraud trends.
-**Machine Learning:** Using Isolation Forest and other algorithms for fraud detection.
-**Power BI Dashboards:**
+1. **Data Preprocessing:** Handling missing values, scaling, and preparing the dataset for machine learning.
+2. **Exploratory Data Analysis:** Identifying patterns in transaction data, including fraud trends.
+3. **Machine Learning:** Using Isolation Forest and other algorithms for fraud detection.
+4. **Power BI Dashboards:**
 > Visualization of fraud vs. legitimate transactions.
 > Monitoring transaction trends over time.
 > Highlighting key fraud metrics and model performance.
 
 ## Results
-> Achieved high accuracy and an F1-score of 0.95 using machine learning models, ensuring effective fraud detection.
-> Developed a comprehensive Power BI dashboard to monitor real-time trends and provide actionable insights into fraudulent activities.
+1. Achieved high accuracy and an F1-score of 0.95 using machine learning models, ensuring effective fraud detection.
+2. Developed a comprehensive Power BI dashboard to monitor real-time trends and provide actionable insights into fraudulent activities.
