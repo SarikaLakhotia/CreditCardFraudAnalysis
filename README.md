@@ -4,11 +4,11 @@
 This project is designed to detect fraudulent credit card transactions using a combination of Python for data preprocessing and model building and Power BI for visualizing trends and results interactively. The primary objective is to analyze transaction data, identify patterns of fraudulent behavior, and create an actionable framework for fraud detection.
 
 ## Technologies Used
-**Python:** For exploratory data analysis (EDA), feature engineering, and machine learning model development.
-**Power BI:** For creating interactive dashboards to monitor fraud trends and visualize key insights.
+1. **Python:** For exploratory data analysis (EDA), feature engineering, and machine learning model development.
+2. **Power BI:** For creating interactive dashboards to monitor fraud trends and visualize key insights.
 ### Libraries:
-**Pandas & NumPy:** Data manipulation and statistical analysis.
-**Matplotlib & Seaborn:** Visualization of data and relationships.
+1. **Pandas & NumPy:** Data manipulation and statistical analysis.
+2. **Matplotlib & Seaborn:** Visualization of data and relationships.
 **Scikit-learn:** Model implementation and evaluation.
 **Isolation Forest:** Anomaly detection technique for fraud detection.
 
