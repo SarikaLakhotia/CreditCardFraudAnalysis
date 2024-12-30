@@ -1,7 +1,7 @@
 # CreditCardFraudAnalysis
 
 ## Overview
-This project is designed to detect fraudulent credit card transactions using a combination of Python for data preprocessing and model building and Power BI for visualizing trends and results interactively. The primary objective is to analyze transaction data, identify patterns of fraudulent behavior, and create an actionable framework for fraud detection.
+This project is designed to detect fraudulent credit card transactions using a combination of Python for data preprocessing and model building and Power BI for visualizing trends and results interactively. The primary objective is to analyze transaction data, identify patterns of fraudulent behavior, and create an actionable framework for fraud detection. The data was gathered from Kaggle.
 
 ## Technologies Used
 1. **Python:** For exploratory data analysis (EDA), feature engineering, and machine learning model development.
