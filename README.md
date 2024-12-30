@@ -17,9 +17,9 @@ This project is designed to detect fraudulent credit card transactions using a c
 2. **Exploratory Data Analysis:** Identifying patterns in transaction data, including fraud trends.
 3. **Machine Learning:** Using Isolation Forest and other algorithms for fraud detection.
 4. **Power BI Dashboards:**
-> Visualization of fraud vs. legitimate transactions.
-> Monitoring transaction trends over time.
-> Highlighting key fraud metrics and model performance.
+Visualization of fraud vs. legitimate transactions.
+Monitoring transaction trends over time.
+Highlighting key fraud metrics and model performance.
 
 ## Results
 1. Achieved high accuracy and an F1-score of 0.95 using machine learning models, ensuring effective fraud detection.
