@@ -23,4 +23,5 @@ Highlighting key fraud metrics and model performance.
 
 ## Results
 Achieved high accuracy and an F1-score of 0.95 using machine learning models, ensuring effective fraud detection.
+
 Developed a comprehensive Power BI dashboard to monitor real-time trends and provide actionable insights into fraudulent activities.
